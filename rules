@@ -7,3 +7,9 @@ new.lewd.ninja##.is-warning.notification
 ! 2020-12-23 https://anime1.me
 ||cdn.anicdn.com/wp-content/plugins/tablepress/js/jquery.datatables.min.js$script
 ||anime1.me/wp-content/plugins/tablepress/js/jquery.datatables.min.js$script,1p
+
+!2023-10-17 https://youtube.com
+youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
+youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
+youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
+youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
