@@ -1,15 +1,32 @@
-! 2020-11-03 https://www.iviewui.com
+! https://www.iviewui.com
 www.iviewui.com##.ivu-alert-with-banner.ivu-alert-with-desc.ivu-alert-with-icon.ivu-alert-warning.ivu-alert
 
-! 2020-12-03 https://new.lewd.ninja
+! https://new.lewd.ninja
 new.lewd.ninja##.is-warning.notification
 
-! 2020-12-23 https://anime1.me
+! https://anime1.me
 ||cdn.anicdn.com/wp-content/plugins/tablepress/js/jquery.datatables.min.js$script
 ||anime1.me/wp-content/plugins/tablepress/js/jquery.datatables.min.js$script,1p
+|https://anime1.me/assets/*.gif
+anime1.me##[id^="ad"]
 
-!2023-10-17 https://youtube.com
+! https://youtube.com
 youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
 youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
 youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
 youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
+
+! m.rouwenwu3.com
+||i.vip.po18ad.com^
+||sun30.so03301koaq.com^
+||olsao.xj-oss.com^
+||*.hzrjj.xyz^
+||m.rouwenwu3.com/js/rourouwu.js
+||m.rouwenwu3.com/astyle/wap.js
+
+! i.shubaoju.cc
+||i.shubaoju.cc/js/zx2.js
+||xnp92aeh02.knlwy.cn/apps/sdk
+||sdk.51.la
+||i.shubaoju.cc/js/wap2.js
+||i.shubaoju.cc/js/wap.js
