@@ -31,3 +31,7 @@ youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 ||i.shubaoju.cc/js/wap*.js
 ||i.shubaoju.cc/js/gd*.js
 ||i.shubaoju.cc/js/wg*.js
+
+! netflix game ads
+www.netflix.com##.ltr-0.mobile-games-row.lolomoRow_title_card.lolomoRow
+www.netflix.com##.billboard-row-games.billboard-row
