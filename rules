@@ -28,5 +28,6 @@ youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
 ||i.shubaoju.cc/js/zx2.js
 ||xnp92aeh02.knlwy.cn/apps/sdk
 ||sdk.51.la
-||i.shubaoju.cc/js/wap2.js
-||i.shubaoju.cc/js/wap.js
+||i.shubaoju.cc/js/wap*.js
+||i.shubaoju.cc/js/gd*.js
+||i.shubaoju.cc/js/wg*.js
