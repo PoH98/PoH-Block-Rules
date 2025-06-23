@@ -10,13 +10,6 @@ new.lewd.ninja##.is-warning.notification
 |https://anime1.me/assets/*.gif
 anime1.me##[id^="ad"]
 
-! https://youtube.com
-youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
-youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
-youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
-youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
-youtube.com##+js(set, ytInitialPlayerResponse, undefined)
-
 ! m.rouwenwu3.com
 ||i.vip.po18ad.com^
 ||sun30.so03301koaq.com^
